@@ -1,0 +1,174 @@
+.div0 {
+
+
+  text-align: center;
+background-color: #EAF6F6;
+margin: 0;
+
+}
+
+hr {
+  align-self: auto;
+  width: 15%;
+
+  border-style: none;
+  border-width: 6px;
+
+  border-color: #83580b;
+  background-color: #EAF6F6;
+  border-top-style: dotted;
+  text-align: left;
+}
+
+.icons {
+  width: 4%;
+  margin: 10px;
+}
+
+.code {
+
+  border-radius: 50%;
+
+  width: 25%;
+  float: right;
+    margin-left: 30px;
+}
+
+.databasep {
+  position: relative;
+  bottom: 75px;
+  text-align: left;
+  color: #52575d;
+
+
+}
+.prgp {
+
+  text-align: left;
+    color: #52575d;
+}
+.prg {
+position: relative;
+  bottom: 75px;
+  text-align: left;
+font-size: 600%;
+
+
+}
+
+.aljded {
+  position: relative;
+  bottom: 250px;
+}
+
+.database {
+  background-color: #e08f62;
+  border-radius: 50%;
+  position: relative;
+  top: 75px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 25px auto 25px auto;
+  text-align: left;
+  background-color: #EAF6F6;
+}
+
+.me {
+  width: 250px;
+}
+.mountain {
+
+
+   padding-right:  35px;
+  width: 55%;
+  margin: 0;
+
+
+}
+
+.cloud {
+  position: absolute;
+
+  right: 1000px;
+  top: 300px;
+  width: 20%;
+  text-align: center;
+}
+.footer-link {
+  position: relative;
+  bottom: 30px;
+}
+
+.cloudtop {
+  position: absolute;
+  left: 1000px;
+  top: 75px;
+  width: 20%;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 15px;
+
+}
+
+.middle-container {
+background-color: #EAF6F6;
+}
+
+h1 {
+position: relative;
+top: 100px;
+  text-align: center;
+  font-family:"Sacramento" ,cursive;
+  font-size: 600%;
+
+  color: #52575d;
+
+
+
+}
+
+h2 {
+  font-family: "Montserrat",sans-serif;
+  font-size: 300%;
+  color: #66BFBF;
+  padding-bottom: 15px;
+}
+h3 {
+  font-family: "Montserrat",sans-serif;
+  font-size: 250%;
+  color: #66BFBF;
+}
+
+p {
+  text-align: center;
+
+  position: relative;
+  top: 95px;
+  line-height: 1.5;
+  font-family: "Montserrat",sans-serif;
+    color: #52575d;
+}
+h4 {
+  font-family: "Montserrat",sans-serif;
+    color: #52575d;
+}
+body {
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+
+  margin:0;
+
+
+
+}
