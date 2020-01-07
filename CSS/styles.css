@@ -41,6 +41,7 @@ hr {
   color: #52575d;
 
 
+
 }
 .prgp {
 
@@ -94,9 +95,8 @@ font-size: 600%;
 
 .cloud {
   position: absolute;
+left: 15%;
 
-  right: 1000px;
-  top: 300px;
   width: 20%;
   text-align: center;
 }
@@ -107,8 +107,7 @@ font-size: 600%;
 
 .cloudtop {
   position: absolute;
-  left: 1000px;
-  top: 75px;
+right: 15%;
   width: 20%;
   text-align: center;
 }
